@@ -97,8 +97,8 @@ span.menu {
   min-height: 600px;
 }
 .banner-info{
-	float:right;
-	width:46%;
+	float:center;
+	width:44%;
 	  margin: 13em 0 0 0em;
 }
 .banner-info h2{
@@ -110,7 +110,7 @@ span.menu {
 	color:#fff;
 	font-size:1em;
 	line-height:1.8em;
-	margin-top:2em;
+	margin-top:1.7em;
 }
 .banner-info a{
 	color: #fff;
